@@ -1,0 +1,39 @@
+.page {
+  padding: 30px 0 30px
+}
+
+#top {
+  padding: 50px 0 240px; 
+}
+
+
+#pageintro article h2 {
+  font-size: 22px;
+}
+
+#pageintro article p {
+  font-size: 19px;
+  color: white;
+  margin: 5px;
+}
+
+.btn {
+  margin-top: 10px;
+  border-radius: 5px; 
+  background-clip: padding-box;
+  color: #FFFFFF; 
+  background-color: #A3C9D3; 
+  border-color: #A3C9D3;
+  display: inline-block; 
+  padding: 10px 20px 12px; 
+  text-transform: uppercase; 
+  border: 1px solid;
+  text-align: center;
+}
+
+.btn:hover {
+  color: inherit; 
+  background-color: transparent; 
+  border-color: inherit;
+}
+
